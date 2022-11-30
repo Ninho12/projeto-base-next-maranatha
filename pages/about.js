@@ -7,10 +7,10 @@ export default function About() {
     <>
       <Head>
         <title>Sobre a empresa</title>
+
+        <meta name="keywords" content="Sobre, Informação"></meta>
       </Head>
-      <Link href="/">
-        <a>Voltar</a>
-      </Link>
+    
       <h1>Página de About</h1>
     </>
   )
